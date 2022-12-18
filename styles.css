@@ -2,6 +2,7 @@
     background-color: black;
     color: white;
     border-radius: 5px;
+    border-style: none;
 }
 #btn:hover{
     background-color: yellow;
